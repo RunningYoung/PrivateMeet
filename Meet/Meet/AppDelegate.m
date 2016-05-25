@@ -33,8 +33,8 @@
 
 @implementation AppDelegate
 
-/////nothing just test
-///what 's app
+
+
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     
